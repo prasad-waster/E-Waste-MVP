@@ -1,4 +1,4 @@
-# ♻️ InnoVibe – Revolutionizing E-Waste Management with AI and Community
+# ♻️ Revolutionizing E-Waste Management with AI and Community
 
 InnoVibe is a dynamic web platform developed for the **Google Solution Challenge** to address the escalating **e-waste crisis** through innovative technology and community engagement.
 
